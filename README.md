@@ -56,34 +56,5 @@ I generated a realistic Superstore-style dataset and created a simple dashboard 
 
 ---
 
-## GitHub Repository Setup
+link of all data files:-[Task_2_Data_Visualization.zip](https://github.com/user-attachments/files/22557052/Task_2_Data_Visualization.zip)
 
-To prepare a GitHub-ready repository:
-
-1. Create a folder named `Task_2_Data_Visualization`.
-2. Place these files inside:
-   - `superstore.csv`
-   - `visualization.ipynb`
-   - `dashboard.png`
-   - `dashboard.pdf`
-   - `README.md`
-3. (Optional) Add a `.gitignore` file to exclude temporary files:
-   ```gitignore
-   .ipynb_checkpoints/
-   __pycache__/
-   *.pyc
-   *.pyo
-   *.pyd
-   *.DS_Store
-   ```
-4. Initialize git and push to GitHub:
-   ```bash
-   git init
-   git add .
-   git commit -m "Add Task 2 Data Visualization project"
-   git branch -M main
-   git remote add origin <https://github.com/chauhanlokender5-dotcom/Task-2-Data-Visualization>
-   git push -u origin main
-   ```
-
-This setup makes the project reproducible and shareable.
