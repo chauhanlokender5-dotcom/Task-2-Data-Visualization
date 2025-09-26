@@ -82,7 +82,7 @@ To prepare a GitHub-ready repository:
    git add .
    git commit -m "Add Task 2 Data Visualization project"
    git branch -M main
-   git remote add origin <your_repo_url>
+   git remote add origin <https://github.com/chauhanlokender5-dotcom/Task-2-Data-Visualization>
    git push -u origin main
    ```
 
