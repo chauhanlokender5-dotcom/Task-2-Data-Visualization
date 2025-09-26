@@ -1,4 +1,4 @@
-#Data Analyst Internship - Task 2
+# Data Analyst Internship - Task 2
 
 ## Task-2-Data-Visualization
 
